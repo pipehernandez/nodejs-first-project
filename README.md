@@ -427,7 +427,7 @@ Como trabajo autonomo, prueba el resto de los verbos HTTP que se mencionan en la
     - 200: OK
     - 400: Bad Request
     - 404: Not Found
-    - 500: Internal Server Error
+    - 500: Internal Server Error.
 
 14. ¿Cuales son los status code mas comunes para el verbo PUT?
     - 200: OK
